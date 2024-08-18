@@ -1,7 +1,5 @@
 Hi, My name is shamsiddin. I'm Python Backend developer from Uzbekistan
 
-## 🌐 Socials:
-<h1>@damiinovv</h1>
 
 
 

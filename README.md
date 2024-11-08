@@ -1,4 +1,4 @@
-Hi, My name is shamsiddin. I'm Python Backend developer from Uzbekistan
+Backend developer
 
 
 
